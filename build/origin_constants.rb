@@ -45,12 +45,9 @@ OPTIONS = {
       'openshift-origin-cartridge-jbossas-7',
       "openshift-origin-cartridge-switchyard-0.6",
       'openshift-origin-cartridge-switchyard-0.6',
-      'openshift-origin-cartridge-jbossews-1.0', 
-      'openshift-origin-cartridge-jbossews-2.0',
       'openshift-origin-cartridge-infinispan-5.2',
       'openshift-origin-cartridge-jbossas',
 
-      'openshift-origin-cartridge-jbossews',
       'openshift-origin-cartridge-jbosseap',
       'openshift-origin-cartridge-ceylon',
       'openshift-origin-cartridge-tomcat',
